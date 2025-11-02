@@ -2,9 +2,8 @@
 <img align="center" width="100%" alt="AI Banner" src="https://github.com/Taosif08/Taosif08/blob/main/assets/ai_header.gif" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mohammad Taosif Mubtasim!](https://github.com/Taosif08)
-<a href="https://wakatime.com/@Taosif08"><img src="[https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg](https://wakatime.com/badge/user/b0454d1f-3d2a-4465-948f-139ce84d1dc3.svg)" height="20px"/></a> 
+<a href="https://wakatime.com/@b0454d1f-3d2a-4465-948f-139ce84d1dc3"><img src="https://wakatime.com/badge/user/b0454d1f-3d2a-4465-948f-139ce84d1dc3.svg" alt="Total time coded since Nov 2 2025" height="20px" /></a>
 <img src="https://komarev.com/ghpvc/?username=Taosif08" height="20px">
-
 
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="600"/>
